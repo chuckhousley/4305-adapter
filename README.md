@@ -3,7 +3,7 @@ The THAT 4301 is out of production and hard to find so I downloaded KiCad and le
 * BOM
 
 | Reference | Value                            |
-|-----------+----------------------------------|
+| ----------|--------------------------------- |
 | R1        | 5k1                              |
 | R2        | 6k2                              |
 | C1        | 220p                             |
